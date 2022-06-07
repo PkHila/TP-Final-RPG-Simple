@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
-#include <time.h>
-#include <string.h>
-#include "pila.h"
+#include <conio.h> //para funciones con caracteres
+#include <time.h>  //para randomizar numeros
+#include <string.h> //para manejar strings
+#include "pila.h" //para el manejo de pilas
 
 typedef struct
 {
